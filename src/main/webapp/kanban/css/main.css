@@ -1,0 +1,95 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: #ccc;
+}
+
+#main {
+	text-align: center;
+}
+
+#container {
+	width: 956px;
+	margin: 0 auto;
+	position: relative;
+	padding: 10px;
+	background-color: #fff;
+	min-height: 600px;
+	border-style:solid;
+	border-width:1px;
+	border-color:#556677;
+	text-align: left;
+}
+
+#upper-bar {
+	text-align: right;
+	margin-bottom: 10px;
+}
+
+#up-message {
+	text-align: center;
+	border-bottom: 10px;
+	height: 20px;
+	background-color: #eee;
+}
+
+#up-message.no-message {
+	background-color: #fff;
+}
+
+.ui-widget {
+	font-size: 11px;
+}
+
+.ui-widget-header {
+	font-size: 13px;
+}
+
+#project-buttons {
+	width: 100%;
+	text-align: center;
+}
+
+.project-select {
+	display: inline;
+}
+
+.project-list {
+	float:left;
+	width: 950px;
+}
+
+div.project {
+	margin : 0 auto;
+	width: 760px;
+	height: 550px;
+}
+
+div.lane {
+	width: 138px;
+	height: 400px;
+	display: inline;
+	float: left;
+}
+
+div.lane .lane-title {
+	width: 140px;
+	text-align: center;
+	margin-bottom: 10px;
+	font-weight: 700;
+}
+
+div.task {
+	position: relative;
+	left: 0px;
+	top: 4px;
+	margin: 4px;
+	padding: 0px 4px;
+	width: 120px;
+	height: 40px;
+}
+
+input, label, select {
+	width: 98%;
+	display: block;
+}

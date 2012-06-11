@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Jun 05 18:52:13 CDT 2012:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instancia a816c00e-0137-bf10-1b29-000000d2f1c0 
+en el directorio de base de datos C:\Users\jpalacio\workspace_juno\kanban-web\target\databases\derby  con el cargador de clases sun.misc.Launcher$AppClassLoader@601bb1
+
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_26-b03
+user.dir=C:\Users\jpalacio\workspace_juno\kanban-web
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
